@@ -1,11 +1,10 @@
-// proyecto4.cpp : Este archivo contiene la función "main". La ejecución del programa comienza y termina ahí.
-//
-
 #include <iostream>
+using namespace std;
 
 int main()
 {
     std::cout << "Hello World!\n";
+    cout << "primer cambio en el proyecto" << endl;
 }
 
 // Ejecutar programa: Ctrl + F5 o menú Depurar > Iniciar sin depurar
