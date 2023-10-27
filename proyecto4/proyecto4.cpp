@@ -5,6 +5,7 @@ int main()
 {
     std::cout << "Hello World!\n";
     cout << "primer cambio en el proyecto" << endl;
+    cout << "estoy haciendo otro cambio" << endl;
 }
 
 // Ejecutar programa: Ctrl + F5 o menú Depurar > Iniciar sin depurar
